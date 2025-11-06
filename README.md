@@ -1,3 +1,4 @@
+
 # Dairy Management System - Flask + MySQL
 
 This application provides a simple CRUD for `animals` as an example and serves static files in `static/` and templates in `templates/`.
@@ -31,3 +32,6 @@ This application provides a simple CRUD for `animals` as an example and serves s
 ## Notes
 - This is a starter conversion. Replace the templates and static files with your original project's frontend files (HTML/CSS/JS).
 - For production, use a proper WSGI server (gunicorn/uwsgi) and connection pooling.
+
+# Dairy-Farm-Management1
+
